@@ -26,7 +26,9 @@ export default function Hero() {
         </span>
       </motion.h1>
       <button className="mt-4 px-4 py-2 bg-yellow-400 text-dark rounded-md font-bold hover:scale-105 transition">
-        PEÇA AGORA - DELIVERY RÁPIDO
+        <a href="https://www.ifood.com.br/delivery/manaus-am/jotas-burgers---cidade-nova-nova-cidade/b2985a4d-300d-4034-89b1-dd9847f3f8ab">
+          PEÇA AGORA - DELIVERY RÁPIDO
+        </a>
       </button>
     </section>
   );

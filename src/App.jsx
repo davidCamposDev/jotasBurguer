@@ -1,7 +1,7 @@
-import JotasPage from "./pages/jotasPage";
+import Home from "./pages/Home";
 
 function App() {
-  return <JotasPage />;
+  return <Home />;
 }
 
 export default App;
